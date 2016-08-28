@@ -65,6 +65,7 @@
     <Content Include="obj\Release\DesignTimeResolveAssemblyReferencesInput.cache" />
     <Content Include="params.json" />
     <Content Include="README.md" />
+    <Content Include="bin\ZhJPHUST.github.io.dll.config" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
